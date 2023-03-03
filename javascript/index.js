@@ -1,1 +1,0 @@
-const myHeading = document .querySelector ('hello world')
